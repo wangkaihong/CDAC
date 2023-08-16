@@ -1,0 +1,6 @@
+work_dirs/
+jobs/
+pretrained/
+__pycache__/
+*/__pycache__
+*.zip
