@@ -29,7 +29,7 @@ python run_experiments.py --config configs/cdac/cs2acdc_uda_dacs_cda_mitb5_b2_s0
 
 ## Testing
 
-Our models pretrained on the three benchmarks are also saved and available online. Please kindly find them [here](https://drive.google.com/file/d/1Zcb2E6or31_JgLFhaQgeT9UD-7TtkUyl/view?usp=sharing). After downloading the files, please run the following command:
+Our models pretrained on the three benchmarks are also saved and available online. Please kindly find them [here]([https://drive.google.com/file/d/1Zcb2E6or31_JgLFhaQgeT9UD-7TtkUyl/view?usp=sharing](https://www.dropbox.com/scl/fo/zshfbb85djhxuuu2qx32q/AN_oH5stBEqEE_CRcobFmMs?rlkey=pe0zqg3vf067ig8w9jbwpoiun&st=ecfe0mmh&dl=0)). After downloading the files, please run the following command:
 
 ```shell
 sh test.sh path/to/checkpoint_directory
